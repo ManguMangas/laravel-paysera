@@ -1,5 +1,5 @@
 {
-    "name": "antcern/laravel-paysera",
+    "name": "mangumangas/laravel-paysera",
     "description": "Paysera for Laravel 5.x",
 	"license": "MIT",
 	"keywords": ["laravel", "paysera", "webtopay"],
